@@ -1,0 +1,6 @@
+{
+  "name": "SkillPath AI",
+  "description": "Context-aware AI career skill analyzer, personalized gap-based roadmaps, project recommendations, and AI career assistant.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
